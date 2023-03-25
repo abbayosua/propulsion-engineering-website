@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Office &#8211; Propulsion Engineering</title>
-	<atom:link href="http://propulsionengineering.test/category-portfolio/office/feed/?simply_static_page=2624" rel="self" type="application/rss+xml" />
+	<atom:link href="http://propulsionengineering.test/category-portfolio/office/feed/?simply_static_page=3189" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Distributor of Quanticast in Asia Pacific</description>
 	<lastBuildDate>Wed, 12 Jun 2019 07:46:32 +0000</lastBuildDate>
@@ -40,7 +40,7 @@
 				</div>
 				<div class="elementor-element elementor-element-c4df2fc elementor-widget elementor-widget-icon-list" data-id="c4df2fc" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="./../../../wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">        <ul class="elementor-icon-list-items">
+			        <ul class="elementor-icon-list-items">
                             <li class="elementor-icon-list-item" >
                                             <span class="elementor-icon-list-icon">
 							<i class="fa fa-check" aria-hidden="true"></i>
